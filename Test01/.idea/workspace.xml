@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b27dcf5b-2391-4275-b229-ca0fb3d9e022" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gaw2syOZv5RqxgP7o40gkkzqi3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.Test02">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Test01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test02" />
+      <module name="Test01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test02" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b27dcf5b-2391-4275-b229-ca0fb3d9e022" name="Default Changelist" comment="" />
+      <created>1598365806441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598365806441</updated>
+      <workItem from="1598365809984" duration="9670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="246" key="#com.intellij.ide.util.MemberChooser" timestamp="1598773403632">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="709" y="245" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1020@0.23.1792.1020" timestamp="1598529187143" />
+    <state x="709" y="246" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1024@0.23.1792.1024" timestamp="1598773403632" />
+    <state x="659" y="242" key="#xdebugger.evaluate" timestamp="1598932724140">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="659" y="242" key="#xdebugger.evaluate/0.23.1792.1026@0.23.1792.1026" timestamp="1598932724140" />
+    <state width="413" height="466" key="DebuggerActiveHint" timestamp="1598368834974">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="413" height="466" key="DebuggerActiveHint/0.23.1792.1017@0.23.1792.1017" timestamp="1598368834974" />
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom" timestamp="1598933417310">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="342" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1598368810567" />
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1598774052650" />
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1598933417310" />
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1598886209378" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center" timestamp="1598933417310">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="342" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1598368810567" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1598774052649" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1598933417310" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1598886209378" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left" timestamp="1598933417309">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="342" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1598368810566" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1598774052649" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1598933417309" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1598886209377" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right" timestamp="1598933417310">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="342" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1598368810567" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1598774052650" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1598933417310" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1598886209378" />
+    <state width="1750" height="342" key="GridCell.Tab.1.bottom" timestamp="1598933351571">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="342" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1598368810824" />
+    <state width="1750" height="342" key="GridCell.Tab.1.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1598773830658" />
+    <state width="1750" height="342" key="GridCell.Tab.1.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1598933351571" />
+    <state width="1750" height="342" key="GridCell.Tab.1.center" timestamp="1598933351571">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="342" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1598368810823" />
+    <state width="1750" height="342" key="GridCell.Tab.1.center/0.23.1792.1024@0.23.1792.1024" timestamp="1598773830657" />
+    <state width="1750" height="342" key="GridCell.Tab.1.center/0.23.1792.1026@0.23.1792.1026" timestamp="1598933351571" />
+    <state width="1750" height="342" key="GridCell.Tab.1.left" timestamp="1598933351571">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="342" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1598368810823" />
+    <state width="1750" height="342" key="GridCell.Tab.1.left/0.23.1792.1024@0.23.1792.1024" timestamp="1598773830657" />
+    <state width="1750" height="342" key="GridCell.Tab.1.left/0.23.1792.1026@0.23.1792.1026" timestamp="1598933351571" />
+    <state width="1750" height="342" key="GridCell.Tab.1.right" timestamp="1598933351571">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="342" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1598368810824" />
+    <state width="1750" height="342" key="GridCell.Tab.1.right/0.23.1792.1024@0.23.1792.1024" timestamp="1598773830657" />
+    <state width="1750" height="342" key="GridCell.Tab.1.right/0.23.1792.1026@0.23.1792.1026" timestamp="1598933351571" />
+    <state x="397" y="170" key="SettingsEditor" timestamp="1599042952636">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="397" y="170" key="SettingsEditor/0.23.1792.1022@0.23.1792.1022" timestamp="1599042952636" />
+    <state x="264" y="194" key="new project wizard" timestamp="1598421378672">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="264" y="194" key="new project wizard/0.23.1792.1028@0.23.1792.1028" timestamp="1598421378672" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Test02.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
